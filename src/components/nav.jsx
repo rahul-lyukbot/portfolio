@@ -1,5 +1,6 @@
 import { CgNametag } from "react-icons/cg";
 import React, { useState } from "react";
+import "./nav.css";
 
 const nav = () => {
   const [isOpen, setIsOpen] = useState(false);

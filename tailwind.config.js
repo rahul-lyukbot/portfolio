@@ -8,7 +8,15 @@ export default {
       md: "768px",
       lg: "1024px",
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: ["Josefin Sans", "sans-serif"],
+        alata: ["Alata"],
+      },
+      letterSpacing: {
+        widest: ".3em",
+      },
+    },
   },
   plugins: [],
 };
