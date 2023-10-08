@@ -12,6 +12,9 @@ export default {
       fontFamily: {
         sans: ["Josefin Sans", "sans-serif"],
         alata: ["Alata"],
+        robotoSlab: ["Roboto Slab"],
+        monoserrat: ["Montserrat"],
+        leagueSpartan: ["League Spartan"],
       },
       letterSpacing: {
         widest: ".3em",
